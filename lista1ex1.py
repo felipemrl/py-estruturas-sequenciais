@@ -1,0 +1,6 @@
+user = input()
+print(user)
+print(user+user)
+print(user+" "+user)
+print("2"+user)
+print("["+user+"]")
